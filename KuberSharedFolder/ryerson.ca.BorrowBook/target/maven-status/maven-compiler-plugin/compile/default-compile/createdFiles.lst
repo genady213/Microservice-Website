@@ -1,0 +1,11 @@
+ryerson/ca/borrowbook/business/BorrowXML.class
+ryerson/ca/borrowbook/endpoint/MyAppServletContextListener.class
+ryerson/ca/borrowbook/persistence/User_Book_Borrow_CRUD.class
+ryerson/ca/borrowbook/endpoint/ApplicationConfig.class
+ryerson/ca/borrowbook/business/Messaging.class
+ryerson/ca/borrowbook/endpoint/BorrowResource.class
+ryerson/ca/borrowbook/business/Messaging$1.class
+ryerson/ca/borrowbook/business/BorrowBusiness.class
+ryerson/ca/borrowbook/persistence/BOOK_Hold_CRUD.class
+ryerson/ca/borrowbook/helper/BookBorrow.class
+ryerson/ca/borrowbook/endpoint/MyAppServletContextListener$1.class

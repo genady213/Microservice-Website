@@ -1,0 +1,6 @@
+ryerson/ca/holdbook/business/Messaging.class
+ryerson/ca/holdbook/persistence/BOOK_Hold_CRUD.class
+ryerson/ca/holdbook/helper/BookHold.class
+ryerson/ca/holdbook/business/HoldBusiness.class
+ryerson/ca/holdbook/endpoint/ApplicationConfig.class
+ryerson/ca/holdbook/endpoint/HoldResource.class

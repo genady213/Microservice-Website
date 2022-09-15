@@ -1,0 +1,7 @@
+ryerson/ca/searchbook/endpoint/ApplicationConfig.class
+ryerson/ca/searchbook/helper/Author.class
+ryerson/ca/searchbook/helper/Book.class
+ryerson/ca/searchbook/helper/BooksXML.class
+ryerson/ca/searchbook/business/SearchBusiness.class
+ryerson/ca/searchbook/persistence/Book_CRUD.class
+ryerson/ca/searchbook/endpoint/SearchResource.class
